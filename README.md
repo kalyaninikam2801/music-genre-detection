@@ -1,4 +1,5 @@
 # Music Genre Classification using Machine Learning
+you can download dataset from  https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 This project aims to classify music genres from audio files using machine learning. The dataset used in this project is the GTZAN Genre Dataset, which contains 1,000 audio tracks categorized into 10 genres, such as blues, classical, jazz, rock, and more. The model uses various features extracted from the audio files to predict the genre of the song.
 
 Project Structure:
